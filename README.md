@@ -1,11 +1,5 @@
-# Sample Snack app
+It is categorized as Hybrid/Shell architecture because the app renders a web application inside a WebView, making the native React Native code only a container, not the UI renderer.
+so it's considered as Hybrid/Shell because React Native only holds a WebView. But our app screens comes from a website, not from native components. Normally React Native talks to native UI through a bridge, but here the app just shows a webpage inside the shell.
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+![andriod](https://github.com/user-attachments/assets/3b581791-595c-42fe-95d5-3a573f87b75a)
+![iphone](https://github.com/user-attachments/assets/ff6e52af-ec3a-48f2-8b97-c02aab536551)
